@@ -1,0 +1,9 @@
+/home/ubuntu/GIT/smart-matching-service/smart-matching-service/src/main/java/com/smartmatch/service/MatchingService.java
+/home/ubuntu/GIT/smart-matching-service/smart-matching-service/src/main/java/com/smartmatch/repository/BuyerRepository.java
+/home/ubuntu/GIT/smart-matching-service/smart-matching-service/src/main/java/com/smartmatch/config/DataInitializer.java
+/home/ubuntu/GIT/smart-matching-service/smart-matching-service/src/main/java/com/smartmatch/model/Supplier.java
+/home/ubuntu/GIT/smart-matching-service/smart-matching-service/src/main/java/com/smartmatch/repository/SupplierRepository.java
+/home/ubuntu/GIT/smart-matching-service/smart-matching-service/src/main/java/com/smartmatch/SmartMatchingApplication.java
+/home/ubuntu/GIT/smart-matching-service/smart-matching-service/src/main/java/com/smartmatch/controller/MatchingController.java
+/home/ubuntu/GIT/smart-matching-service/smart-matching-service/src/main/java/com/smartmatch/model/Buyer.java
+/home/ubuntu/GIT/smart-matching-service/smart-matching-service/src/main/java/com/smartmatch/config/SwaggerConfig.java

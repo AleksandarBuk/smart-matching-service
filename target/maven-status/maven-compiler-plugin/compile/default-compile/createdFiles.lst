@@ -1,0 +1,9 @@
+com/smartmatch/service/MatchingService.class
+com/smartmatch/repository/SupplierRepository.class
+com/smartmatch/config/DataInitializer.class
+com/smartmatch/repository/BuyerRepository.class
+com/smartmatch/controller/MatchingController.class
+com/smartmatch/model/Supplier.class
+com/smartmatch/config/SwaggerConfig.class
+com/smartmatch/SmartMatchingApplication.class
+com/smartmatch/model/Buyer.class
