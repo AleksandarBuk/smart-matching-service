@@ -42,4 +42,16 @@ public class MatchingController {
     public List<Buyer> getBuyersByIndustry(@RequestParam String industry) {
         return matchingService.findBuyersByIndustry(industry);
     }
+
+    @GetMapping("/buyers/product")
+    @Operation(summary = "Get buyers by product")
+    public List<Buyer> getBuyersByProduct(@RequestParam String product) {
+        return matchingService.findBuyersByProduct(product);
+    }
+
+    @GetMapping("/suppliers/product")
+    @Operation(summary = "Get suppliers by product")
+    public List<Supplier> getSuppliersByProduct(@RequestParam String product) {
+        return matchingService.findSuppliersByProduct(product);
+    }
 }

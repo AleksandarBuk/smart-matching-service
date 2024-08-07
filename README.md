@@ -6,6 +6,7 @@ The Smart Matching Service is a Spring Boot application designed to facilitate m
 - Matching buyers with suitable suppliers
 - Matching suppliers with potential buyers
 - Filtering suppliers and buyers by industry
+- Filtering suppliers and buyers by product
 - RESTful API with Swagger documentation
 
 ## Tech Stack:
@@ -21,5 +22,7 @@ The Smart Matching Service is a Spring Boot application designed to facilitate m
 - GET /api/matching/supplier/{supplierId}/buyers
 - GET /api/matching/suppliers?industry={industry}
 - GET /api/matching/buyers?industry={industry}
+- GET /api/matching/buyers/product?product={product}
+- GET /api/matching/suppliers/product?product={product}
 
 For detailed API documentation, run the application and visit: http://localhost:8080/swagger-ui.html
